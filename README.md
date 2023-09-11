@@ -23,7 +23,7 @@ This repository provides an implementation of the classic Transformer architectu
 
 ## Dataset
 
-The model is trained on the [Opus Books dataset](https://huggingface.co/datasets/opus_books) from the HuggingFace repository. This dataset is a collection of translated books in various languages, suitable for machine translation tasks.
+The model is trained on the [Opus Books dataset](https://huggingface.co/datasets/opus_books) from the HuggingFace repository.
 
 ## Acknowledgements
 
